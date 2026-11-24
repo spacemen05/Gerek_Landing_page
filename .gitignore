@@ -1,0 +1,12 @@
+# Private survey data (respondent names and emails) - never publish
+DataSheets/
+
+# Internal drafts
+Market Research.docx
+*.docx
+
+# Crash logs and OS junk
+*.stackdump
+Thumbs.db
+desktop.ini
+.DS_Store
